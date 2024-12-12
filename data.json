@@ -1,0 +1,28 @@
+{
+  "allow": [
+    {
+      "id": "2",
+      "name": "Harshit ",
+      "age": 23,
+      "address": "Gautam Nagar"
+    },
+    {
+      "id": "3",
+      "name": "Anshuman",
+      "age": 24,
+      "address": "Katara "
+    },
+    {
+      "name": "Harshit",
+      "age": "1(",
+      "address": "NTPC)",
+      "id": "ed59"
+    },
+    {
+      "id": "d7e7",
+      "name": "Mock 1 (RRB NTPC)",
+      "age": "234",
+      "address": "qwwqfwreg"
+    }
+  ]
+}
